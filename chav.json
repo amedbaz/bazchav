@@ -5,28 +5,32 @@
       "wene":"http://www.impawards.com/2025/posters/jurassic_world_rebirth_ver8.jpg",
       "nav":"Jurassic World",
        "jer":"Action",
-      "sal":"2025"
+      "sal":"2025",
+       "araitng":"9.3"
     },
     {
    "id":3,
       "wene":"http://www.impawards.com/2025/posters/superman_ver30.jpg",
       "nav":"Spider Man",
        "jer":"Action",
-      "sal":"2024"
+      "sal":"2024",
+       "araitng":"8.0"
     },
     {
    "id":2,
       "wene":"https://m.media-amazon.com/images/I/819xG3LWPOS._UF894,1000_QL80_.jpg",
       "nav":"Luca",
        "jer":"Animation",
-      "sal":"2022"
+      "sal":"2022",
+       "araitng":"7.9"
     },
     {
    "id":1,
       "wene":"https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Tommy_Shelby.jpg/250px-Tommy_Shelby.jpg",
       "nav":"Peaky Blinders",
        "jer":"Drama",
-      "sal":"2025"
+      "sal":"2025",
+       "araitng":"9.7"
     }
 
  ]
